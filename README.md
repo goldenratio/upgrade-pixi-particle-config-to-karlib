@@ -1,6 +1,7 @@
 # upgrade-pixi-particle-config-to-karlib
 
-Update pixi-particle v2 config to karlib particle config
+A CLI tool, that updates [pixi-particle v2 config](https://particle-emitter-editor.pixijs.io/) to [karlib](https://github.com/goldenratio/karlib) particle config
+
 
 ## Usage
 
