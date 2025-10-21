@@ -2,7 +2,7 @@
 
 Update pixi-particle v2 config to karlib particle config
 
-# Usage
+## Usage
 
 ```console
 ./upgrade-pixi-particle-config.ts [FILE] > particle_config.json
